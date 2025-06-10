@@ -30,10 +30,12 @@ Python | HTML | CSS | JavaScript | AWS
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 💡 Fun fact: 🎯 I'm passionate about creating responsive, user-friendly web interfaces and solving real-world problems through code..
+- 🌱 JavaScript, React.js, and Python to sharpen both my frontend and backend skills.
+- 🤝 Actively seeking opportunities to collaborate on open source, join hackathons, and gain experience through internships or junior-level roles.
+  💼 Career interests: Frontend Engineering, UI Engineering, and Software Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer 
 - 📫 You can [view my resume](#) and contact me by deborahokobi2@gmail.com
 
 ---
