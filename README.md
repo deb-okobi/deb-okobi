@@ -32,7 +32,7 @@ Python | HTML | CSS | JavaScript | AWS
 - 😊 Pronouns: her
 - 💡 Fun fact: 🎯 I'm passionate about creating responsive, user-friendly web interfaces and solving real-world problems through code..
 - 🌱 JavaScript, React.js, and Python to sharpen both my frontend and backend skills.
-- 🤝 Actively seeking opportunities to collaborate on open source, join hackathons, and gain experience through internships or junior-level roles.
+- 🤝 Actively seeking opportunities to collaborate on open source, join hackathons, and gain experienceS.
   💼 Career interests: Frontend Engineering, UI Engineering, and Software Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer 
